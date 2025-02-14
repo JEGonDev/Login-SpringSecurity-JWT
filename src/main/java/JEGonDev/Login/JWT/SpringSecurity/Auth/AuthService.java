@@ -1,5 +1,6 @@
 package JEGonDev.Login.JWT.SpringSecurity.Auth;
 
+import JEGonDev.Login.JWT.SpringSecurity.Jwt.JwtService;
 import JEGonDev.Login.JWT.SpringSecurity.User.Role;
 import JEGonDev.Login.JWT.SpringSecurity.User.User;
 import JEGonDev.Login.JWT.SpringSecurity.User.UserRepository;
